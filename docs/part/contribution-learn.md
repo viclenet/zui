@@ -22,7 +22,7 @@ filter: zhanzaijurendijianbangshang zzjrdjbs
   <div class="col-md-3 col-sm-4"><a target="_blank" href="http://necolas.github.io/normalize.css/" class="card"><strong class="card-heading">normalize</strong></a></div>
   <div class="col-md-3 col-sm-4"><a target="_blank" href="http://jquery.com/" class="card"><strong class="card-heading">jQuery</strong></a></div>
   <div class="col-md-3 col-sm-4"><a target="_blank" href="http://getbootstrap.com/" class="card"><strong class="card-heading">Bootstrap</strong></a></div>
-  <div class="col-md-3 col-sm-4"><a target="_blank" href="http://kindeditor.net/" class="card"><strong class="card-heading">kindeditor</strong></a></div>
+  <div class="col-md-3 col-sm-4"><a target="_blank" href="http://ueditor.baidu.com/" class="card"><strong class="card-heading">UEditor</strong></a></div>
   <div class="col-md-3 col-sm-4"><a target="_blank" href="http://harvesthq.github.io/chosen/" class="card"><strong class="card-heading">Chosen</strong></a></div>
   <div class="col-md-3 col-sm-4"><a target="_blank" href="http://www.malot.fr/bootstrap-datetimepicker" class="card"><strong class="card-heading">Datetime picker</strong></a></div>
   <div class="col-md-3 col-sm-4"><a target="_blank" href="http://fortawesome.github.io/Font-Awesome/" class="card"><strong class="card-heading">FontAwesome</strong></a></div>
